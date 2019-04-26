@@ -1,0 +1,17 @@
+{
+  "name": "pnrstat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "node-fetch": "^2.4.0",
+    "nodemon": "^1.18.11"
+  }
+}
