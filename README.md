@@ -12,6 +12,3 @@
 3. Train Fare Enquiry.
 
 ![Oops..Not able to load Image.](https://raw.githubusercontent.com/manosriram/Train-Info/master/Screenshot%202019-04-27%20at%201.15.25%20AM.png)
-
-
-### Hosted : railtrack.herokuapp.com
